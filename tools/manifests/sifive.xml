@@ -7,7 +7,7 @@
   <project name="meta-sifive" path="meta-sifive" />
   <project name="meta-riscv" path="meta-riscv" />
   <project name="openembedded-core" path="openembedded-core" />
-  <project name="openembedded/bitbake" path="openembedded-core/bitbake" />
+  <project name="bitbake" path="openembedded-core/bitbake" />
   <project name="meta-openembedded" path="meta-openembedded" />
   <project name="meta-clang" path="meta-clang" />
 </manifest>
