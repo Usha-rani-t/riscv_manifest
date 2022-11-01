@@ -1,7 +1,7 @@
 <manifest>
 	<remote name="github" fetch="https://github.com/Usha-rani-t/" />
 
-  <default remote="github" revision="kinara" />
+  <default remote="github" revision="default" />
 
   <project name="freedom-u-sdk" path="freedom-u-sdk" />
   <project name="meta-sifive" path="meta-sifive" />
