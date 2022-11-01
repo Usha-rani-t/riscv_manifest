@@ -33,7 +33,7 @@ This needs to be done every time you want a clean setup based on the latest laye
 
 ```bash
 mkdir riscv-sifive && cd riscv-sifive
-repo init -u https://github.com/sifive/freedom-u-sdk -b 2022.04 -m tools/manifests/sifive.xml
+repo init -u https://github.com/Usha-rani-t/riscv_manifest -b  -m tools/manifests/sifive.xml
 repo sync
 ```
 
